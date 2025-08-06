@@ -32,6 +32,15 @@
 
 ### 帮我读AI
 
+![](https://img.shields.io/badge/已上线-8A2BE2)
+![](https://img.shields.io/badge/暂未开源-0A2BE2)
+
+
+微信小程序二维码：
+
+<img width="300" height="300" alt="ec49539d13ce5614eddb2d678bb52c68" src="https://github.com/user-attachments/assets/7e18b282-6a1c-4fef-b15c-40a78d1eee63" />
+
+
 | 相关repo             | 链接                                                         |      |
 | -------------------- | ------------------------------------------------------------ | ---- |
 | 微信小程序前端       | https://github.com/SJTUOpenSourceGuild/miniprogram-shandu-AI |      |
